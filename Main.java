@@ -3,14 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package pkg1_fibonacci;
+package ketupat;
 
 /**
  *
  * @author Praktikan
  */
 import java.util.Scanner;
-public class Main {
+public class Ketupat {
 
     /**
      * @param args the command line arguments
@@ -74,7 +74,7 @@ public class Main {
                 }
 
             System.out.println();
-            
+            System.out.println("made by taurahkur");
 
         }
     }
